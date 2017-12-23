@@ -1,3 +1,7 @@
+# QT Settings
+*.pro.user
+*.pro
+
 # Prerequisites
 *.d
 
